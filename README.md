@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">{<br>  "name": "Aman Kumar",<br>  "role": "API Integration & Backend Development | Java | Spring Boot | REST APIs | Microservices",<br>  "location": "Bengaluru, India",<br>  "about": "I build backend systems using Java and Spring Boot, with a strong focus on clean APIs and database design.",<br>  "skills": ["Java", "Spring Boot", "REST APIs", "React", "Python", "MySQL", "Microservices",  "Git"],<br>  "currentlyLearning": "Advanced Spring Boot & backend best practices",<br>  "funFact": "Backend bugs teach me more than tutorials 😅",<br> } <br> "links": {<br>    "linkedin": "https://www.linkedin.com/in/dev-aman-kr17/"<br>"leetcode": "https://leetcode.com/u/amankcodes/"<br>  }<br>}</p>
+<p align="left">{<br>  "name": "Aman Kumar",<br>  "role": "API Integration & Backend Development | Java | Spring Boot | REST APIs | Microservices",<br>  "location": "Bengaluru, India",<br>  "about": "I build backend systems using Java and Spring Boot, with a strong focus on clean APIs and database design.",<br>  "skills": ["Java", "Spring Boot", "REST APIs", "React", "Python", "MySQL", "Microservices",  "Git"],<br>  "currentlyLearning": "Advanced Spring Boot & backend best practices",<br>  "funFact": "Backend bugs teach me more than tutorials 😅",<br> } <br> "links": {<br>    "linkedin": "https://www.linkedin.com/in/dev-aman-kr17/"<br>"leetcode": "https://leetcode.com/u/amankcodes/"<br>"Hackerrank": "https://www.hackerrank.com/profile/amankr17" }<br>"GeeksforGeeks": "https://www.geeksforgeeks.org/profile/amankr_17" <br>}</p>
 
 ###
 

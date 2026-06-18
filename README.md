@@ -1,7 +1,5 @@
 <h1 align="left">Hello👋 World..</h1>
-
 ###
-
 <p align="left">My name is Aman and I'm from Patna | India</p>
 
 ###
